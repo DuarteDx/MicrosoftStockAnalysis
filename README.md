@@ -3,10 +3,10 @@
 Open [analysis.ipynb](https://github.com/DuarteDx/MicrosoftStockAnalysis/blob/master/analysis.ipynb)
 
 ### Ideas for future iterations
-Deploy to a web app:
+Deploy to a web app:<br/>
 https://pythonforundergradengineers.com/deploy-jupyter-notebook-voila-heroku.html
 
-Use interactive widgets:
-https://ipywidgets.readthedocs.io/en/latest/
-https://github.com/bqplot/bqplot
+Use interactive widgets:<br/>
+https://ipywidgets.readthedocs.io/en/latest/ <br/>
+https://github.com/bqplot/bqplot <br/>
 https://www.youtube.com/watch?v=1XTMkcrVyQg
